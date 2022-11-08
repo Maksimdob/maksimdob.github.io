@@ -7,7 +7,7 @@
       <item>
          <title>Application 1.2.0.0</title>
          <pubDate>Mon, 05 Sep 2022 17:40:19 +02:00</pubDate>
-         <enclosure url="OMS.MultiWave.exe" sparkle:version="2.0.0.0" sparkle:shortVersionString="2.0.0" length="264192" sparkle:os="windows" type="application/octet-stream" sparkle:signature="wjSSaIrogZbmox183/L5goWCdizYkAeQg2Y0xJ2c1vR4Da0rh969Gtq+b0amExIs1HaVefIQZsec3yXSn4gsAw==" />
+         <enclosure url="https://maksimdob.github.io/oms-setup.exe" sparkle:version="2.0.0.0" sparkle:shortVersionString="2.0.0" length="264192" sparkle:os="windows" type="application/octet-stream" sparkle:signature="wjSSaIrogZbmox183/L5goWCdizYkAeQg2Y0xJ2c1vR4Da0rh969Gtq+b0amExIs1HaVefIQZsec3yXSn4gsAw==" />
       </item>
    </channel>
 </rss>
